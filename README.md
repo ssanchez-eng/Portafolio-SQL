@@ -3,8 +3,7 @@
 Tecnólogo en Informática Biomédica | Análisis de datos aplicados a la salud
 
 ## Sobre este repositorio
-Colección de consultas y proyectos SQL orientados al análisis de datos, 
-inteligencia de negocios y gestión de información en el sector salud.
+Portafolio SQL enfocado en administración de bases de datos, desarrollo de consultas, integración de datos y generación de información para la toma de decisiones.
 
 ## Tecnologías
 - SQL Server

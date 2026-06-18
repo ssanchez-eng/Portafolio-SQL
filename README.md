@@ -2,6 +2,7 @@
 
 Tecnólogo en Informática Biomédica | Especialista en SQL y Análisis de Datos
 
+
 🎯 Sobre este repositorio
 
 Este repositorio contiene un portafolio completo de consultas SQL desarrolladas manualmente y con total conciencia, demostrando progresión desde conceptos fundamentales hasta técnicas avanzadas de administración de bases de datos.
@@ -13,6 +14,7 @@ Cada ejercicio fue realizado con énfasis en:
 ✅ Resolución de problemas reales
 ✅ Optimización de consultas
 ✅ Integración de datos para toma de decisiones
+
 
 
 📚 Estructura del portafolio
@@ -37,7 +39,7 @@ Capítulo 1 - Conceptos Fundamentales (30 ejercicios)
 
 Ejercicios de SELECT, WHERE, ORDER BY, INNER JOIN, GROUP BY, agregaciones básicas, DISTINCT.
 
-Archivo: Consultas Basicas #1.sql
+📄 Archivo: Consultas Basicas #1.sql
 
 
 Capítulo 2 - Consolidación de Conceptos (30 ejercicios - próximamente)
@@ -105,10 +107,7 @@ Manejo de errores (TRY-CATCH)
 
 🛠️ Tecnologías
 
-
-SQL Server - Motor de base de datos principal
-DBeaver - IDE para desarrollo y ejecución de consultas
-
+HerramientaDescripciónSQL ServerMotor de base de datos principalDBeaverIDE para desarrollo y ejecución de consultas
 
 
 💾 Base de datos
@@ -122,7 +121,7 @@ Incluye: clientes, órdenes, productos, empleados, proveedores
 Proporciona contexto realista con relaciones complejas
 
 
-NIVELES INTERMEDIO Y AVANZADO (próximamente):
+NIVELES INTERMEDIO Y AVANZADO (próximamente)
 
 
 Se utilizarán bases de datos más complejas
@@ -134,32 +133,31 @@ Casos de uso más realistas del mundo laboral
 
 🚀 Cómo usar este repositorio
 
+1. Descarga Northwind Database:
 
-Descarga Northwind Database:
 
 Repositorio oficial: Microsoft SQL Server Samples
 
 
 
-Abre el archivo SQL en tu IDE:
+2. Abre el archivo SQL en tu IDE:
+
 
 DBeaver, SQL Server Management Studio (SSMS), o similar
 
 
 
-Ejecuta las consultas:
-
-Cada ejercicio está numerado y comentado
-Puedes ejecutar todos o seleccionar ejercicios específicos
+3. Ejecuta las consultas:
 
 
-
-Practica modificando:
-
-Cambia condiciones, agrega filtros, experimenta
-La mejor forma de aprender es modificar y ejecutar
+Cada ejercicio está numerado y comentado. Puedes ejecutar todos o seleccionar ejercicios específicos.
 
 
+
+4. Practica modificando:
+
+
+Cambia condiciones, agrega filtros, experimenta. La mejor forma de aprender es modificar y ejecutar.
 
 
 
@@ -168,18 +166,20 @@ La mejor forma de aprender es modificar y ejecutar
 
 Cada nivel está diseñado para:
 
+
 ✅ Progresión clara: De lo simple a lo complejo
 ✅ Repetición estratégica: Conceptos se refuerzan en múltiples contextos
 ✅ Aplicación práctica: Ejercicios basados en problemas reales
 ✅ Independencia: Aprender a pensar en SQL, no solo copiar
 
 
+
 📞 Contacto
 
 
-LinkedIn: Sebastián Sánchez Cortés
-Email: s.sanchez@duocuc.cl
-GitHub: ssanchez-eng
+💼 LinkedIn: Sebastián Sánchez Cortés
+📧 Email: s.sanchez@duocuc.cl
+🐙 GitHub: ssanchez-eng
 
 
 
@@ -193,6 +193,4 @@ Los errores fueron parte del aprendizaje y están documentados
 
 
 
-Última actualización: Junio 2026
-
-Estado: En desarrollo activo 🚀
+Última actualización: Junio 2026 — Estado: En desarrollo activo 🚀

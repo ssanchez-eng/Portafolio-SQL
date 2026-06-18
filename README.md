@@ -1,16 +1,198 @@
-# Proyectos SQL — Sebastián Sánchez Cortés
+📊 Portafolio SQL - Sebastián Sánchez Cortés
 
-Tecnólogo en Informática Biomédica | Análisis de datos aplicados a la salud
+Tecnólogo en Informática Biomédica | Especialista en SQL y Análisis de Datos
 
-## Sobre este repositorio
-Portafolio SQL enfocado en administración de bases de datos, desarrollo de consultas, integración de datos y generación de información para la toma de decisiones.
+🎯 Sobre este repositorio
 
-## Tecnologías
-- SQL Server
-- Power BI
-- SSIS
-- Excel / Visual Basic
+Este repositorio contiene un portafolio completo de consultas SQL desarrolladas manualmente y con total conciencia, demostrando progresión desde conceptos fundamentales hasta técnicas avanzadas de administración de bases de datos.
 
-## Contacto
-- LinkedIn: https://www.linkedin.com/in/sebastián-sánchez-cortés-52781b223
-- Email: s.sanchez@duocuc.cl
+Cada ejercicio fue realizado con énfasis en:
+
+
+✅ Comprensión profunda de conceptos SQL
+✅ Resolución de problemas reales
+✅ Optimización de consultas
+✅ Integración de datos para toma de decisiones
+
+
+📚 Estructura del portafolio
+
+🟢 NIVEL BÁSICO
+
+Dominio de los fundamentos esenciales de SQL.
+
+Conceptos cubiertos:
+
+
+SELECT, WHERE, ORDER BY, TOP/LIMIT
+GROUP BY, HAVING
+Funciones de agregación: COUNT, SUM, AVG, MAX, MIN
+DISTINCT
+CASE WHEN (lógica condicional)
+INNER JOIN (relaciones entre tablas)
+
+
+
+Capítulo 1 - Conceptos Fundamentales (30 ejercicios)
+
+Ejercicios de SELECT, WHERE, ORDER BY, INNER JOIN, GROUP BY, agregaciones básicas, DISTINCT.
+
+Archivo: Consultas Basicas #1.sql
+
+
+Capítulo 2 - Consolidación de Conceptos (30 ejercicios - próximamente)
+
+Refuerzo y profundización en:
+
+
+SUM, AVG, MAX, MIN (funciones de agregación)
+HAVING (filtrado post-agregación)
+CASE WHEN (lógica condicional compleja)
+TOP/LIMIT (limitación de resultados)
+Combinaciones estratégicas de conceptos
+
+
+
+Capítulo 3 - Manipulación y Diseño de Tablas (próximamente)
+
+Ejercicios de DML y DDL:
+
+
+INSERT - Inserción de datos
+UPDATE - Actualización de datos
+DELETE - Eliminación de datos
+CREATE TABLE - Creación de tablas
+ALTER TABLE - Modificación de estructuras
+
+
+
+🟡 NIVEL INTERMEDIO (próximamente)
+
+Técnicas avanzadas de manipulación y análisis de datos.
+
+Conceptos:
+
+
+INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN
+SELF JOIN
+Subconsultas (correlacionadas y no correlacionadas)
+UNION, INTERSECT, EXCEPT
+Funciones de texto: CONCAT, SUBSTRING, UPPER, LOWER, LEN, TRIM
+Funciones de fecha: DATEADD, DATEDIFF, YEAR, MONTH, DAY
+Vistas (CREATE VIEW)
+Índices (CREATE INDEX)
+EXISTS, IN, NOT IN
+
+
+
+🔴 NIVEL AVANZADO (próximamente)
+
+Dominio de técnicas profesionales de SQL Server.
+
+Conceptos:
+
+
+Window Functions: ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD
+CTEs (Common Table Expressions - WITH clause)
+Stored Procedures (CREATE PROCEDURE)
+Triggers (CREATE TRIGGER)
+Transactions (BEGIN, COMMIT, ROLLBACK)
+Query Optimization (Execution Plans, índices avanzados)
+Particionamiento de datos
+Manejo de errores (TRY-CATCH)
+
+
+
+🛠️ Tecnologías
+
+
+SQL Server - Motor de base de datos principal
+DBeaver - IDE para desarrollo y ejecución de consultas
+
+
+
+💾 Base de datos
+
+NIVEL BÁSICO: Northwind Database
+
+
+Base de datos de muestra oficial de Microsoft
+Contiene datos de una empresa comercial ficticia
+Incluye: clientes, órdenes, productos, empleados, proveedores
+Proporciona contexto realista con relaciones complejas
+
+
+NIVELES INTERMEDIO Y AVANZADO (próximamente):
+
+
+Se utilizarán bases de datos más complejas
+Mayor volumen de datos
+Esquemas más elaborados
+Casos de uso más realistas del mundo laboral
+
+
+
+🚀 Cómo usar este repositorio
+
+
+Descarga Northwind Database:
+
+Repositorio oficial: Microsoft SQL Server Samples
+
+
+
+Abre el archivo SQL en tu IDE:
+
+DBeaver, SQL Server Management Studio (SSMS), o similar
+
+
+
+Ejecuta las consultas:
+
+Cada ejercicio está numerado y comentado
+Puedes ejecutar todos o seleccionar ejercicios específicos
+
+
+
+Practica modificando:
+
+Cambia condiciones, agrega filtros, experimenta
+La mejor forma de aprender es modificar y ejecutar
+
+
+
+
+
+
+📖 Metodología de aprendizaje
+
+Cada nivel está diseñado para:
+
+✅ Progresión clara: De lo simple a lo complejo
+✅ Repetición estratégica: Conceptos se refuerzan en múltiples contextos
+✅ Aplicación práctica: Ejercicios basados en problemas reales
+✅ Independencia: Aprender a pensar en SQL, no solo copiar
+
+
+📞 Contacto
+
+
+LinkedIn: Sebastián Sánchez Cortés
+Email: s.sanchez@duocuc.cl
+GitHub: ssanchez-eng
+
+
+
+📝 Notas
+
+
+Todos los ejercicios fueron desarrollados manualmente sin asistencia automática
+Garantiza comprensión profunda de cada concepto
+Cada consulta es resultado de experimentación y razonamiento lógico
+Los errores fueron parte del aprendizaje y están documentados
+
+
+
+Última actualización: Junio 2026
+
+Estado: En desarrollo activo 🚀

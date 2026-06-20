@@ -176,7 +176,6 @@ Cada nivel está diseñado para:
 - Todos los ejercicios fueron desarrollados manualmente sin asistencia automática
 - Garantiza comprensión profunda de cada concepto
 - Cada consulta es resultado de experimentación y razonamiento lógico
-- Los errores fueron parte del aprendizaje y están documentados
 
 ---
 

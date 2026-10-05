@@ -1,6 +1,6 @@
 # 📊 Portafolio SQL - Sebastián Sánchez Cortés
 
-**Tecnólogo en Informática Biomédica | SQL y Análisis de Datos**
+**Tecnólogo en Informática Biomédica 
 
 ---
 

@@ -165,7 +165,7 @@ Cada nivel está diseñado para:
 
 ## 📞 Contacto
 
-- 💼 **LinkedIn:** [Sebastián Sánchez Cortés](www.linkedin.com/in/sebastián-sánchez-cortés-52781b223)
+- 💼 **LinkedIn:** [Sebastián Sánchez Cortés](https://www.linkedin.com/in/sebasti%C3%A1n-s%C3%A1nchez-cort%C3%A9s-52781b223)
 - 📧 **Email:** s.sanchez@duocuc.cl
 - 🐙 **GitHub:** [ssanchez-eng](https://github.com/ssanchez-eng)
 

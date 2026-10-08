@@ -113,7 +113,7 @@ Técnicas de SQL Server utilizadas en entornos profesionales.
 
 | Herramienta | Descripción |
 |---|---|
-| **SQL Server** | Motor de base de datos principal |
+| **Microsoft SQL Server** | Motor de base de datos principal |
 | **DBeaver** | IDE para desarrollo y ejecución de consultas |
 
 ---
